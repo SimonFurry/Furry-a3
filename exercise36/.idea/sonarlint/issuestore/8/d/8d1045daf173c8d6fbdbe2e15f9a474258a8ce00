@@ -1,0 +1,28 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(»«Å„üÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "isNumber".(ÓàÀÔ
+R
+java:S1854""<Remove this useless assignment to local variable "isNumber".(³¿¬
+W
+java:S1854$"<Remove this useless assignment to local variable "isNumber".(°ªäøÿÿÿÿ
+R
+java:S1854'"<Remove this useless assignment to local variable "isNumber".(ºÌÁ
+C
+java:S1481"(Remove this unused "num" local variable.(†¬›Äûÿÿÿÿ
+H
+java:S1481"-Remove this unused "isNumber" local variable.(¼îƒ§úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖáõÓ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ËÖöà
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¢˜â±
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ºÇ¾Âşÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(„¦Ì¶
+M
+java:S1854E"7Remove this useless assignment to local variable "res".(™ÑÒª
+Q
+java:S1854D"6Remove this useless assignment to local variable "sq".(ªòàßıÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(ï–’
+M
+java:S2589"7Remove this expression which always evaluates to "true"(ÓàÀÔ
+Z
+java:S2583'"DChange this condition so that it does not always evaluate to "false"(ºÌÁ

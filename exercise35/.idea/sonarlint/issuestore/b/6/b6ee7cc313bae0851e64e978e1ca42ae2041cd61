@@ -1,0 +1,23 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "isName".(®––Æ
+W
+java:S1854"":Remove this useless assignment to local variable "isName".(†Í‚8Â©™¸Ä/
+W
+java:S1854$":Remove this useless assignment to local variable "isName".(´¦ñü8¢Á”¸Ä/
+W
+java:S1854'":Remove this useless assignment to local variable "isName".(öê¼’8–Ö”¸Ä/
+F
+java:S1481"+Remove this unused "isName" local variable.(½ÿ¾‚ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸¯¼ıÿÿÿÿ
+s
+java:S2159#"VRemove this call to "equals"; comparisons between unrelated types always return false.(äÇëù8ö¿•¸Ä/
+@
+java:S2119("Save and re-use this "Random".(šŸ«íøÿÿÿÿ8éê›¸Ä/
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(µ¼…è
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ö¿•¸Ä/
+M
+java:S2589"7Remove this expression which always evaluates to "true"(®––Æ
+Z
+java:S2583'"DChange this condition so that it does not always evaluate to "false"(öê¼’

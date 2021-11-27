@@ -1,0 +1,19 @@
+
+`
+java:S16590"EDeclare "hasDigit" and all following declarations on a separate line.(ıÙ’šùÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(î÷©çÿÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(Å²Áëÿÿÿÿÿ
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ø½ş‹8¼ÊÃåÃ/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(ø½ş‹8ğıÃåÃ/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ø½ş‹8ğıÃåÃ/
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ø½ş‹8ö•ÄåÃ/
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Û•
+l
+java:S1192A"ODefine a constant instead of duplicating this literal "The password '" 4 times.(ø½ş‹8ğıÃåÃ/
+e
+java:S1192A"HDefine a constant instead of duplicating this literal "' is a " 4 times.(ø½ş‹8ğıÃåÃ/
+h
+java:S1192A"KDefine a constant instead of duplicating this literal " password." 4 times.(ø½ş‹8…ÈÆåÃ/
+H
+java:S1199="-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
